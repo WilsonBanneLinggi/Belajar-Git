@@ -1,0 +1,1 @@
+print ("Saya Lasarus Laking Openg")
